@@ -156,4 +156,8 @@ Public Class currency_conversion
 End Clas
 ````````````````````````````````````````
 
+### 06 Currency Coversion's Operation
+![05_02_currency_conversion_operation.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/05_02_currency_conversion_operation.png)
+
+
 
