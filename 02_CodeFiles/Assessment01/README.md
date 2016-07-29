@@ -252,7 +252,7 @@ Test case id	Test case Description                   Expected result            
 001	            Clicking Currency Menu                  OK                                     Very Good		
 002			    Clicking Mass Menu                      OK                                     Very Good
 003	            Clicking Temperature Menu               OK                                     Very Good
-004             Pressing Email-Me button                OK                                     Very Good
+004             Pressing Email-Me button                OK                                     well done totally
 ````````````````````````````````````````
 
 ### 4-3 Testing the Currency Coversion
@@ -272,7 +272,7 @@ Test case id	Test case Description                   Expected result            
 Test case id	Test case Description                   Expected result                        Actual result
 001			    Checking Pound/Kilograms                OK                                     Very Good
 002			    Checking Kilograms/Poud                 OK                                     Very Good
-003	            Entering Number of Unit                 OK                                     Very Good
+003	            Putting Number of Unit                  OK                                     Very Good
 004             Pressing Covert button                  OK                                     Well done totally
 ````````````````````````````````````````
 
@@ -280,9 +280,10 @@ Test case id	Test case Description                   Expected result            
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			
-002			
-003	
+001			    Putting Fahrenhit Data                  OK                                     Very Good
+002			    PUtting Celcius Data                    OK                                     Very Good
+003	            Pressing Convert F-C Button             OK                                     Very Good
+004             Pressing Convert C-F Button             OK                                     Well done totally
 ````````````````````````````````````````
 
 
