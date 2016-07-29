@@ -36,42 +36,6 @@
         ElseIf cb_ToCountry.SelectedIndex = 10 Then             ' Thai(Baht)/updated currency: 27/07/2016
             txt_ReceivingAmount.Text = 35.03 * inputcurrency
 
-
-
-
-
-
-
-
-
-
-
-
-
-            ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-            'ElseIf cb_fromContry.SelectedIndex = 0 Then
-            '   txt_ReceivingAmount.Text = 0.2 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 1 Then
-            '   txt_ReceivingAmount.Text = 0.3 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 2 Then
-            '   txt_ReceivingAmount.Text = 0.4 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 3 Then
-            '   txt_ReceivingAmount.Text = 0.5 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 4 Then
-            '   txt_ReceivingAmount.Text = 0.6 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 5 Then
-            '   txt_ReceivingAmount.Text = 0.12 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 6 Then
-            '   txt_ReceivingAmount.Text = 0.13 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 8 Then
-            '    txt_ReceivingAmount.Text = 0.21 * inputcurrency
-            'ElseIf cb_fromContry.SelectedIndex = 9 Then
-            '    txt_ReceivingAmount.Text = 0.44 * inputcurrency
-            ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-            'Else  cb_fromContry.SelectedIndex = cb_ToCountry.SelectedIndex Then
-            'txt_sendAmount.Text = txt_ReceivingAmount.Text
-            ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
         End If
     End Sub
 End Class
