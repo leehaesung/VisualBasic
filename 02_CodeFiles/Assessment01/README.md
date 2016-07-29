@@ -63,6 +63,13 @@ End Class
 If password.Length < 6 Then
             MsgBox("Password length should be 6 chracters long, please enter necessary information", MsgBoxStyle.Information, "Login Error")
 ``````````
+
 ### 02 Operational Error
+![03_02_error_operation](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/03_02_error_operation.png)
+``````````
+If (userid = "" Or password = "") Then
+            MsgBox("User ID or password can't be empty, please enter necessary information.", MsgBoxStyle.Information, "Login Error")
+        End If
+``````````
 
 ### 03 Operational Error
