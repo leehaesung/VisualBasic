@@ -249,18 +249,21 @@ Test case id	Test case Description                   Expected result            
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			
-002			
-003	
+001	            Clicking Currency Menu                  OK                                     Very Good		
+002			    Clicking Mass Menu                      OK                                     Very Good
+003	            Clicking Temperature Menu               OK                                     Very Good
+004             Pressing Email-Me button                OK                                     Very Good
 ````````````````````````````````````````
 
 ### 4-3 Testing the Currency Coversion
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			
-002			
-003	
+001             Putting From Country                    OK                                     Very Good			
+002			    Putting To Country                      OK                                     Very Good
+003	            Putting Send Amount                     OK                                     Very Good
+004             Pressing Estimate Button                OK                                     Very Good
+005             Receving Amount                         Might be good                          Well done
 ````````````````````````````````````````
 
 ### 4-4 Testing the Mass Convesion
