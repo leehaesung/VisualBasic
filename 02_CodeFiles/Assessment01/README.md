@@ -236,16 +236,19 @@ End Clas
 ### 4-1 Testing the Login
 ````````````````````````````````````````
 [Test Plan Template]
-Test case id	Test case Description                         Expected result                        Actual result
-001			
-002			
-003			
+Test case id	Test case Description                   Expected result                        Actual result
+001             Putting the user ID  			        OK                                     OK
+002	            Putting the Password	                OK	                                   OK       
+003			    Submitting ID & Password                OK                                     Very Good
+004             Pressing Cancel button                  OK                                     Well exited out
+005             Pressing Facebook button                OK                                     Well linked the facebook webpage
+006             Pressing Google+ button                 OK                                     Well linked the Google+ webpage
 ````````````````````````````````````````
 
 ### 4-2 Testing the Menu
 ````````````````````````````````````````
 [Test Plan Template]
-Test case id	Test case Description                         Expected result                        Actual result
+Test case id	Test case Description                   Expected result                        Actual result
 001			
 002			
 003	
@@ -254,7 +257,7 @@ Test case id	Test case Description                         Expected result      
 ### 4-3 Testing the Currency Coversion
 ````````````````````````````````````````
 [Test Plan Template]
-Test case id	Test case Description                         Expected result                        Actual result
+Test case id	Test case Description                   Expected result                        Actual result
 001			
 002			
 003	
@@ -263,7 +266,7 @@ Test case id	Test case Description                         Expected result      
 ### 4-4 Testing the Mass Convesion
 ````````````````````````````````````````
 [Test Plan Template]
-Test case id	Test case Description                         Expected result                        Actual result
+Test case id	Test case Description                   Expected result                        Actual result
 001			
 002			
 003	
@@ -272,7 +275,7 @@ Test case id	Test case Description                         Expected result      
 ### 4-5 Testing the Temperature Conversion
 ````````````````````````````````````````
 [Test Plan Template]
-Test case id	Test case Description                         Expected result                        Actual result
+Test case id	Test case Description                   Expected result                        Actual result
 001			
 002			
 003	
