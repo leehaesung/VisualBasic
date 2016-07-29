@@ -215,6 +215,15 @@ End Clas
 
 
 ## Task 3 Debugging of GUI: 
+### 3-1 Debugging the Login
+![10_Debug_Login.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/10_Debug_Login.png)
+
+### 3-2 Debugging the Menu
+![11_Debug_menu.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/11_Debug_menu.png)
+
+### 3-3 Debugging the Currency Convrsion
+![12_Debug_currency.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/12_Debug_currency.png)
+
 
 
 ## Task 4 Test GUI Application:
