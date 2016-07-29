@@ -234,15 +234,49 @@ End Clas
 
 ## Task 4 Test GUI Application:
 ### 4-1 Testing the Login
+````````````````````````````````````````
+Test Plan Template
+Test case id	Test case Description	Expected result 	Actual result
+001			
+002			
+003			
+````````````````````````````````````````
 
 ### 4-2 Testing the Menu
+````````````````````````````````````````
+Test Plan Template
+Test case id	Test case Description	Expected result 	Actual result
+001			
+002			
+003	
+````````````````````````````````````````
 
 ### 4-3 Testing the Currency Coversion
+````````````````````````````````````````
+Test Plan Template
+Test case id	Test case Description	Expected result 	Actual result
+001			
+002			
+003	
+````````````````````````````````````````
 
 ### 4-4 Testing the Mass Convesion
+````````````````````````````````````````
+Test Plan Template
+Test case id	Test case Description	Expected result 	Actual result
+001			
+002			
+003	
+````````````````````````````````````````
 
 ### 4-5 Testing the Temperature Conversion
-
+````````````````````````````````````````
+Test Plan Template
+Test case id	Test case Description	Expected result 	Actual result
+001			
+002			
+003	
+````````````````````````````````````````
 
 < END >
 
