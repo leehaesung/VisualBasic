@@ -106,4 +106,5 @@ Public Class menu1
 End Class
 ````````````````````````````````````````
 
-
+### All menues
+![04_01_total_menu.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/04_01_total_menu.png)
