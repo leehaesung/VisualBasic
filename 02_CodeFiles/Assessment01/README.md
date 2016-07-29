@@ -156,8 +156,34 @@ Public Class currency_conversion
 End Clas
 ````````````````````````````````````````
 
-### 06 Currency Coversion's Operation
+### 07 Currency Coversion's Operation
 ![05_02_currency_conversion_operation.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/05_02_currency_conversion_operation.png)
+
+
+### 08 Mass Coversion
+![/06_mass_conversion.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/06_mass_conversion.png)
+* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/mass.vb`
+````````````````````````````````````````
+Public Class mass_conversion
+    Private Sub btn_convert_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_convert.Click
+        Dim inputnumber As Double
+
+        If rdo_from_pound.Checked = True And rdo_to_kilograms.Checked = True Then  'Conversion from lb(pound) to kg
+            inputnumber = txt_numerOfUnit.Text
+            txt_result.Text = 0.4536 * inputnumber    'formla from lb to kg
+        Else  'Conversion from kg to lb
+            inputnumber = txt_numerOfUnit.Text
+            txt_result.Text = 2.2045855 * inputnumber 'formula from kg to lb
+        End If
+    End Sub
+End Class
+````````````````````````````````````````
+
+### 09 Mass Coversion's Operation
+![07_mass_conversion_operation.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/07_mass_conversion_operation.png)
+
+
+
 
 
 
