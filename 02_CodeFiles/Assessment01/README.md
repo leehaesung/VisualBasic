@@ -224,6 +224,8 @@ End Clas
 ### 3-3 Debugging the Currency Convrsion
 ![12_Debug_currency.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/12_Debug_currency.png)
 
+### 3-4 Debugging the Mass Conversion
+![13_Debug_mass.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/13_Debug_mass.png)
 
 
 ## Task 4 Test GUI Application:
