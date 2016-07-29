@@ -56,3 +56,9 @@ End Class
 
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
+* 01 Operational Error
+![03_01_error_operation](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/03_01_error_operation.png)
+
+* 02 Operational Error
+
+* 03 Operational Error
