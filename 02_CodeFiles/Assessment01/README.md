@@ -210,6 +210,14 @@ Public Class temperature_conversion
 End Clas
 ````````````````````````````````````````
 
+### 11 Temperature Coversion's Operation
+![09_temperature_conversion_operation.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/09_temperature_conversion_operation.png)
+
+
+## Task 3 Debugging of GUI: 
+
+
+## Task 4 Test GUI Application:
 
 
 
