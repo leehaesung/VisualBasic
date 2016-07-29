@@ -54,6 +54,7 @@ End Class
 * When you press the buttons(Facebook/Google+), it's automatically going to pop up below that. 
 ![02_02_FacebookAndGooglePlus](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/02_FacebookAndGooglePlus.png)
 
+
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
 
@@ -72,4 +73,6 @@ If (userid = "" Or password = "") Then
         End If
 ``````````
 
-### 03 Operational Error
+### 03 Successful Operation
+![03_03_nomal_operation](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/03_03_nomal_operation.png)
+
