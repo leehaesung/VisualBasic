@@ -227,6 +227,8 @@ End Clas
 ### 3-4 Debugging the Mass Conversion
 ![13_Debug_mass.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/13_Debug_mass.png)
 
+### 3-5 Debugging the Temperature Coversion
+![14_Debug_temperature.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/14_Debug_temperature.png)
 
 ## Task 4 Test GUI Application:
 
