@@ -263,16 +263,17 @@ Test case id	Test case Description                   Expected result            
 002			    Putting To Country                      OK                                     Very Good
 003	            Putting Send Amount                     OK                                     Very Good
 004             Pressing Estimate Button                OK                                     Very Good
-005             Receving Amount                         Might be good                          Well done
+005             Receving Amount                         Might be good                          Well done totally
 ````````````````````````````````````````
 
 ### 4-4 Testing the Mass Convesion
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			
-002			
-003	
+001			    Checking Pound/Kilograms                OK                                     Very Good
+002			    Checking Kilograms/Poud                 OK                                     Very Good
+003	            Entering Number of Unit                 OK                                     Very Good
+004             Pressing Covert button                  OK                                     Well done totally
 ````````````````````````````````````````
 
 ### 4-5 Testing the Temperature Conversion
