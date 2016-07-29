@@ -49,4 +49,6 @@ Public Class lgoin
     End Sub
 End Class
 ``````````
+
+* When you press the buttons(Facebook/Google+), it automatically is goint pop up below that. 
 ![02_02_FacebookAndGooglePlus](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/02_FacebookAndGooglePlus.png)
