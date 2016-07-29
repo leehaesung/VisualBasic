@@ -59,7 +59,10 @@ End Class
 
 ### 01 Operational Error
 ![03_01_error_operation](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/03_01_error_operation.png)
-
+``````````
+If password.Length < 6 Then
+            MsgBox("Password length should be 6 chracters long, please enter necessary information", MsgBoxStyle.Information, "Login Error")
+``````````
 ### 02 Operational Error
 
 ### 03 Operational Error
