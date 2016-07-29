@@ -75,4 +75,10 @@ If (userid = "" Or password = "") Then
 
 ### 03 Successful Operation
 ![03_03_nomal_operation](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/03_03_nomal_operation.png)
-
+``````````
+If userid = "leehaesung" And password = "123456" Then
+            MsgBox("Welcome in Conversion Applccation System", MsgBoxStyle.Information, "Login Sucessful")
+            Me.Visible = False
+            menu1.Visible = True
+        End If
+``````````
