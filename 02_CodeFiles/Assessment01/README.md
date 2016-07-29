@@ -237,53 +237,63 @@ End Clas
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001             Putting the user ID  			        OK                                     OK
-002	            Putting the Password	                OK	                                   OK       
-003			    Submitting ID & Password                OK                                     Very Good
-004             Pressing Cancel button                  OK                                     Well exited out
-005             Pressing Facebook button                OK                                     Well linked the facebook webpage
-006             Pressing Google+ button                 OK                                     Well linked the Google+ webpage
+-----------------------------------------------------------------------------------------------------------------------
+ 001             Putting the user ID  			         Would be good                          OK
+ 002	         Putting the Password	                 Would be OK	                        OK       
+ 003			 Submitting ID & Password                Would be good                          Very Good
+ 004             Pressing Cancel button                  Woudl be exited out                    Well exited out
+ 005             Pressing Facebook button                Would be linked                        Very Good
+ 006             Pressing Google+ button                 Would be connected                     Well connected with Google+
+-----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
 ### 4-2 Testing the Menu
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001	            Clicking Currency Menu                  OK                                     Very Good		
-002			    Clicking Mass Menu                      OK                                     Very Good
-003	            Clicking Temperature Menu               OK                                     Very Good
-004             Pressing Email-Me button                OK                                     well done totally
+-----------------------------------------------------------------------------------------------------------------------
+ 001	         Clicking Currency Menu                  Could be very good                     Very Good		
+ 002			 Clicking Mass Menu                      Could be very good                     Very Good
+ 003	         Clicking Temperature Menu               Would be good                          Very Good
+ 004             Pressing Email-Me Button                Would be good                          Welld done totally
+-----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
 ### 4-3 Testing the Currency Coversion
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001             Putting From Country                    OK                                     Very Good			
-002			    Putting To Country                      OK                                     Very Good
-003	            Putting Send Amount                     OK                                     Very Good
-004             Pressing Estimate Button                OK                                     Very Good
-005             Receving Amount                         Might be good                          Well done totally
+-----------------------------------------------------------------------------------------------------------------------
+ 001             Putting From Country                    Could be very good                     Very Good			
+ 002			 Putting To Country                      Could be very good                     Very Good
+ 003	         Putting Send Amount                     Could be very good                     Very Good
+ 004             Pressing Estimate Button                Would be good                          Very Good
+ 005             Receving Amount                         Might be good                          Well done totally
+-----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
 ### 4-4 Testing the Mass Convesion
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			    Checking Pound/Kilograms                OK                                     Very Good
-002			    Checking Kilograms/Poud                 OK                                     Very Good
-003	            Putting Number of Unit                  OK                                     Very Good
-004             Pressing Covert button                  OK                                     Well done totally
+-----------------------------------------------------------------------------------------------------------------------
+ 001			 Checking Pound/Kilograms                Could be very good                     Very Good
+ 002			 Checking Kilograms/Poud                 Could be very good                     Very Good
+ 003	         Putting Number of Unit                  Could be very good                     Very Good
+ 004             Pressing Covert button                  Would be good                          Well done totally
+-----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
 ### 4-5 Testing the Temperature Conversion
 ````````````````````````````````````````
 [Test Plan Template]
 Test case id	Test case Description                   Expected result                        Actual result
-001			    Putting Fahrenhit Data                  OK                                     Very Good
-002			    PUtting Celcius Data                    OK                                     Very Good
-003	            Pressing Convert F-C Button             OK                                     Very Good
-004             Pressing Convert C-F Button             OK                                     Well done totally
+-----------------------------------------------------------------------------------------------------------------------
+ 001			 Putting Fahrenhit Data                  Could be very good                     Very Good
+ 002			 Putting Celcius Data                    Could be very good                     Very Good
+ 003	         Pressing Convert(F-C Button)            Would be good                          Very Good
+ 004             Pressing Convert(C-F Button)            Would be good                          Well done totally
+-----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
 
