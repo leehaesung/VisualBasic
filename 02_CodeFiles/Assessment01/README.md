@@ -236,6 +236,7 @@ End Clas
 ### 4-1 Testing the Login
 ````````````````````````````````````````
 [Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
  001             Putting the user ID  			         Would be good                          OK
@@ -250,6 +251,7 @@ Test case id	Test case Description                   Expected result            
 ### 4-2 Testing the Menu
 ````````````````````````````````````````
 [Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
  001	         Clicking Currency Menu                  Could be very good                     Very Good		
@@ -262,6 +264,7 @@ Test case id	Test case Description                   Expected result            
 ### 4-3 Testing the Currency Coversion
 ````````````````````````````````````````
 [Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
  001             Putting From Country                    Could be very good                     Very Good			
@@ -275,6 +278,7 @@ Test case id	Test case Description                   Expected result            
 ### 4-4 Testing the Mass Convesion
 ````````````````````````````````````````
 [Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
  001			 Checking Pound/Kilograms                Could be very good                     Very Good
@@ -287,6 +291,7 @@ Test case id	Test case Description                   Expected result            
 ### 4-5 Testing the Temperature Conversion
 ````````````````````````````````````````
 [Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
  001			 Putting Fahrenhit Data                  Could be very good                     Very Good
