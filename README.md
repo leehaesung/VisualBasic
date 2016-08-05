@@ -1,5 +1,7 @@
 # Studying Visual Basic(Microsft 2010 Express)
 
+***
+
 ## [Assessment 01](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment01)
 
 
@@ -11,6 +13,7 @@
      
 
 
+***
 
 ## [Assessment 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment02)
 
@@ -22,7 +25,7 @@
 
 
 
-
+***
 
 ## [Assessment 03](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment03)
 
