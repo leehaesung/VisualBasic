@@ -100,6 +100,11 @@ End Class
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
 
+### Sorting the data
+* If the user clicks on “Sort Student Marks,” it should display the 10 student marks in the following way and at evaluation time user can see in progress bar:
+
+![03_Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/03_Array_PG_DB.png)
+
 
 ***
 
