@@ -37,6 +37,7 @@
 
 ![09_room.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/09_room.png)
 
+![01_tbl_student_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/01_tbl_student_DB.png)
 
 
 < END >
