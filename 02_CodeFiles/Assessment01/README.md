@@ -1,4 +1,4 @@
-# Assessment Project-I
+# Assessment I
 
 * STUDENT NAME:	Haesung Lee
 * STUDENT NO:	  S078887
