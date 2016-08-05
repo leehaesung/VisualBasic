@@ -9,10 +9,23 @@
 ## Task-0: Data Table For DB (Ms Office Access 2007)
 ## Designing The Data Tables For Training Database System:
 
-# Student Table
+### 0-1 Student Table
 
 ![01_tbl_student_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/01_tbl_student_DB.png)
 
+
+### 0-2 Course Information Table
+
+![02_tbl_Course_information_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/02_tbl_Course_information_DB.png)
+
+
+### 0-3 Department Table
+
+![03_tbl_Department_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/03_tbl_Department_DB.png)
+
+
+### 0-4 Room Table
+![04_tbl_Room_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/04_tbl_Room_DB.png)
 
 
 
