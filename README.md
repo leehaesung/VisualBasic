@@ -3,7 +3,7 @@
 ## [Assessment 01](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment01)
 
 
-* This program is conversion calculators as below.
+* This program is conversion calculators such as Currency, Mass, and Termperature like below.
 * [My Report For Assessmen 01](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/README.md)
 * Images: 
 
@@ -14,7 +14,7 @@
 
 ## [Assessment 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment02)
 
-* This program is siple DB program to understand about Displaying, Sorting, Reversing, and Cleaning Data)
+* This program is simple DB-Program to understand about Displaying, Sorting, Reversing, and Cleaning Data)
 * [My Report For Assessmen 02](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/README.md)
 * Images:
 
