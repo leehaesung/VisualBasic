@@ -101,4 +101,10 @@ End Clas
 ![04_Sort_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/04_Sort_Student_Marks.png)
 
 
+* If the user clicks on the “Reverse Student Marks” button, the students’ marks in the Textbox should be displayed in the reverse way and at evaluation time the user can see the progress bar as below:
+
+![05_Reverse_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/05_Reverse_Student_Marks.png)
+
+
+
 
