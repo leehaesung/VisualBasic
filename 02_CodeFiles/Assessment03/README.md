@@ -6,7 +6,7 @@
 * This version was coded by Microsoft Visual Basic 2010 Express with MS Office Access 2007.
 
 
-## Task-0: Data Table For DB (Ms Office Access 2007)
+## Task-0: Data Table For DB 
 ## Designing The Data Tables For Training Database System:
 * We need to create a Database name Training Database System in Ms Access 2007 and a Graphical user interface windows form application using Visual Basic 2010.
 * Our trainer will be made the contents of Database.
