@@ -337,5 +337,8 @@ Test case id	Test case Description                   Expected result            
 ````````````````````````````````````````
 
 
+## Task 5 Conclusion
+* 1st task's program helped me understand easier [the simple DB](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/README.md).
+* First of all, I manually wrote many DB tables on MS Access 2007 and then I codded above the DB program on Microsoft Visual Basic 2010 Express. I manually put the data on the Training DB System. So, It was automatically saved into DB program. Also, we could search the data anytime. In the future, I would code Search Program inside and would apply my web using jquery DB Server. Secondly, DB program is widly useful. So,I will be using DB programing for IoT Sensor device.
 
 < END >
