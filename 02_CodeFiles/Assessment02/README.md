@@ -131,18 +131,18 @@ End Clas
 
 
 ## Task 4 Test GUI Application:
-### 4-1 Testing the Login
+### Testing all process
 ````````````````````````````````````````
 [Test Plan Template]
 -----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
- 001             Putting the user ID  			         Would be good                          OK
- 002	         Putting the Password	                 Would be OK	                        OK       
- 003			 Submitting ID & Password                Would be good                          Very Good
- 004             Pressing Cancel button                  Woudl be exited out                    Well exited out
- 005             Pressing Facebook button                Would be linked                        Very Good
- 006             Pressing Google+ button                 Would be connected                     Well connected with Google+
+ 001             Putting the data    			         Would be good                          OK
+ 002	         Displaying the data 	                 Would be OK	                        OK       
+ 003			 Sorting the data                        Would be good                          Very Good
+ 004             Reversing the data                      Woudl be ok                            very Good
+ 005             Cleaning the data                       Would be good                          Very Good
+ 006             Terminating                             Would be ok                            Well done!!
 -----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
