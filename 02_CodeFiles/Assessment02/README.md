@@ -91,26 +91,31 @@ End Clas
 ## Operational Constraint:
 
 
+### 2-01 Putting the data
 * If the user clicks on the “Fill Student marks” button, It should prompt you via an input box to enter marks of 10 students sequentially as below:
 
 ![02_Fill_Student_marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/02_Fill_Student_marks.png)
 
 
+### 2-02 Displaying the data
 * If the user clicks on “Display Student Marks” button, the 10 students’ marks should be displayed in the text box & Evaluations time user can see in progress bar Like Below:
 
 ![03_Display_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/03_Display_Student_Marks.png)
 
 
+### 2-03 Sorting the data
 * If the user clicks on “Sort Student Marks,” it should display the 10 student marks in the following way and at evaluation time user can see in progress bar:
 
 ![04_Sort_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/04_Sort_Student_Marks.png)
 
 
+### 2-04 Reversing the data
 * If the user clicks on the “Reverse Student Marks” button, the students’ marks in the Textbox should be displayed in the reverse way and at evaluation time the user can see the progress bar as below:
 
 ![05_Reverse_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/05_Reverse_Student_Marks.png)
 
 
+### 2-05 Cleaning the data
 * If the user clicks on the “Clear Student marks” button, the text box contents should be cleared or empty as below:
 
 ![06_Clear_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/06_Clear_Student_Marks.png)
@@ -118,5 +123,27 @@ End Clas
 
 * If the user clicks on the “ 'x'(Exit)” Button the programme should terminate.
 
+
+## Task 3 Debugging of GUI: 
+### 3-1 Debugging the Login
+
+![07_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/07_Debug.png)
+
+
+## Task 4 Test GUI Application:
+### 4-1 Testing the Login
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001             Putting the user ID  			         Would be good                          OK
+ 002	         Putting the Password	                 Would be OK	                        OK       
+ 003			 Submitting ID & Password                Would be good                          Very Good
+ 004             Pressing Cancel button                  Woudl be exited out                    Well exited out
+ 005             Pressing Facebook button                Would be linked                        Very Good
+ 006             Pressing Google+ button                 Would be connected                     Well connected with Google+
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
 
 
