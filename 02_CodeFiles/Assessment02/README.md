@@ -106,5 +106,9 @@ End Clas
 ![05_Reverse_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/05_Reverse_Student_Marks.png)
 
 
+* If the user clicks on the “Clear Student marks” button, the text box contents should be cleared or empty as below:
+
+![06_Clear_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/06_Clear_Student_Marks.png)
+
 
 
