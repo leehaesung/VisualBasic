@@ -36,6 +36,7 @@
 ## Task-1: Build GUI Design applications 
 ## Designing Constraint:
 
+* The design of the Main Form will look as below. In the application, you are required to put the main Menu items for Training Information System Form (Student, Department, Course, Room.)
 
 ![05_menu.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/05_menu.png)
 * Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/lgoin.vb#L8`
