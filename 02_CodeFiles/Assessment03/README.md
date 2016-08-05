@@ -8,6 +8,10 @@
 
 ## Task-0: Data Table For DB (Ms Office Access 2007)
 ## Designing The Data Tables For Training Database System:
+* We need to create a Database name Training Database System in Ms Access 2007 and a Graphical user interface windows form application using Visual Basic 2010.
+* Our trainer will be made the contents of Database.
+* For all of the below form users are required to insert minimum five data values the in the tables of the database via a form.
+
 
 ### 0-1 Student Table
 
@@ -59,3 +63,9 @@ Public Class menu1
     End Sub
 End Class
 ````````````````````````````````````````
+
+
+## Task 2: Create GUI  Application
+## Operational Constraint:
+
+### 2-01 
