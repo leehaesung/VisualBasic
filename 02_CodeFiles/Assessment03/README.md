@@ -258,3 +258,25 @@ End Class
 
 
 
+## Task 3 Debugging of GUI: 
+### Debugging
+![10_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/10_Debug.png)
+
+
+
+## Task 4 Test GUI Application:
+### 4-1 Testing
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001             Putting the user ID  			         Would be good                          OK
+ 002	         Putting the Password	                 Would be OK	                        OK       
+ 003			 Submitting ID & Password                Would be good                          Very Good
+ 004             Pressing Cancel button                  Woudl be exited out                    Well exited out
+ 005             Pressing Facebook button                Would be linked                        Very Good
+ 006             Pressing Google+ button                 Would be connected                     Well connected with Google+
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
