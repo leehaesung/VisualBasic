@@ -1,9 +1,14 @@
 # Assessment II
 
+***
+
 * STUDENT NAME:	Haesung Lee
 * STUDENT NO:	  S078887
 * SUBJECT NO:	  M05
 * This version was coded by Microsoft Visual Basic 2010 Express.
+
+
+***
 
 ## Task-1: Build GUI Design applications 
 ## Designing Constraint:
@@ -87,6 +92,8 @@ End Clas
 ````````````````````````````````````````
 
 
+***
+
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
 
@@ -125,11 +132,17 @@ End Clas
 * If the user clicks on the “ 'x'(Exit)” Button the programme should terminate.
 
 
+
+***
+
 ## Task 3 Debugging of GUI: 
 ### Debugging 
 
 ![07_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/07_Debug.png)
 
+
+
+***
 
 ## Task 4 Test GUI Application:
 ### Testing all process
@@ -148,3 +161,4 @@ Test case id	Test case Description                   Expected result            
 ````````````````````````````````````````
 
 
+< END >
