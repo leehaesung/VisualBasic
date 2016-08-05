@@ -265,18 +265,76 @@ End Class
 
 
 ## Task 4 Test GUI Application:
-### 4-1 Testing
+### 4-1 Testing the Menu
 ````````````````````````````````````````
 [Test Plan Template]
 -----------------------------------------------------------------------------------------------------------------------
 Test case id	Test case Description                   Expected result                        Actual result
 -----------------------------------------------------------------------------------------------------------------------
- 001             Putting the user ID  			         Would be good                          OK
- 002	         Putting the Password	                 Would be OK	                        OK       
- 003			 Submitting ID & Password                Would be good                          Very Good
- 004             Pressing Cancel button                  Woudl be exited out                    Well exited out
- 005             Pressing Facebook button                Would be linked                        Very Good
- 006             Pressing Google+ button                 Would be connected                     Well connected with Google+
+ 001             Clicking Student        	             Would be good                          OK
+ 002	         Clicking Department    	             Would be OK	                        OK       
+ 003			 Clicking Course                         Would be good                          Very Good
+ 004             Clicking Room                           Woudl be good                          Very Good
+ 005             Pressing Email Me's Button              Would be linked                        Very Good
 -----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
+### 4-2 Testing the Student DB
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001	         Pressing Add New                        Could be very good                     Very Good		
+ 002			 Putting Data                            Could be very good                     Very Good
+ 003	         Saving Data                             Would be good                          Very Good
+ 004             Deleting Data                           Would be good                          Good
+ 005             Exting the program                      Would be ver good                      Good
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
+### 4-3 Testing the Department DB
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001	         Pressing Add New                        Could be very good                     Very Good		
+ 002			 Putting Data                            Could be very good                     Very Good
+ 003	         Saving Data                             Would be good                          Very Good
+ 004             Deleting Data                           Would be good                          Good
+ 005             Exting the program                      Would be ver good                      Good
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
+### 4-4 Testing the Course Information DB
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001	         Pressing Add New                        Could be very good                     Very Good		
+ 002			 Putting Data                            Could be very good                     Very Good
+ 003	         Saving Data                             Would be good                          Very Good
+ 004             Deleting Data                           Would be good                          Good
+ 005             Exting the program                      Would be ver good                      Good
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
+### 4-5 Testing the Room DB
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001	         Pressing Add New                        Could be very good                     Very Good		
+ 002			 Putting Data                            Could be very good                     Very Good
+ 003	         Saving Data                             Would be good                          Very Good
+ 004             Deleting Data                           Would be good                          Very Good
+ 005             Exting the program                      Would be ver good                      Well dong
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
+
+
+< END >
