@@ -96,3 +96,9 @@ End Clas
 ![03_Display_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/03_Display_Student_Marks.png)
 
 
+* If the user clicks on “Sort Student Marks,” it should display the 10 student marks in the following way and at evaluation time user can see in progress bar:
+
+![04_Sort_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/04_Sort_Student_Marks.png)
+
+
+
