@@ -121,6 +121,7 @@ End Clas
 ![06_Clear_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/06_Clear_Student_Marks.png)
 
 
+### 2-06 Terminating the program
 * If the user clicks on the “ 'x'(Exit)” Button the programme should terminate.
 
 
@@ -142,7 +143,7 @@ Test case id	Test case Description                   Expected result            
  003			 Sorting the data                        Would be good                          Very Good
  004             Reversing the data                      Woudl be ok                            very Good
  005             Cleaning the data                       Would be good                          Very Good
- 006             Terminating                             Would be ok                            Well done!!
+ 006             Terminating the program                 Would be ok                            Well done!!
 -----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
