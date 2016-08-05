@@ -331,7 +331,7 @@ Test case id	Test case Description                   Expected result            
  002			 Putting Data                            Could be very good                     Very Good
  003	         Saving Data                             Would be good                          Very Good
  004             Deleting Data                           Would be good                          Very Good
- 005             Exting the program                      Would be good                          Well dong
+ 005             Exting the program                      Would be good                          Well 
 -----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
