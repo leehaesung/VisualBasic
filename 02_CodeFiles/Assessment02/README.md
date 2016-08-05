@@ -87,9 +87,12 @@ End Clas
 ````````````````````````````````````````
 
 * If the user clicks on the “Fill Student marks” button, It should prompt you via an input box to enter marks of 10 students sequentially as below:
+
 ![02_Fill_Student_marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/02_Fill_Student_marks.png)
 
+
 * If the user clicks on “Display Student Marks” button, the 10 students’ marks should be displayed in the text box & Evaluations time user can see in progress bar Like Below:
+
 ![03_Display_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/03_Display_Student_Marks.png)
 
 
