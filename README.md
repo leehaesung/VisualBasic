@@ -2,6 +2,8 @@
 
 ## [Assessment 01](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment01)
 
+
+* This program is conversion calculators as below.
 * [My Report For Assessmen 01](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/README.md)
 * Images: 
 
@@ -12,6 +14,7 @@
 
 ## [Assessment 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment02)
 
+* This program is siple DB program to understand about Displaying, Sorting, Reversing, and Cleaning Data)
 * [My Report For Assessmen 02](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/README.md)
 * Images:
 
@@ -23,6 +26,7 @@
 
 ## [Assessment 03](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment03)
 
+* This is Training DB Management System For Student with MS Office Access 2007.
 * [My Report For Assessmen 03](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/README.md)
 * Images:
 
