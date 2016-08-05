@@ -70,6 +70,21 @@ End Class
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
 
+* Totally, It consists of 3 Parts(Group Boxes) such as 'Input Text Boxes', 'Input Buttons', and 'DB Grid View Box'. Also, there are operational  6 buttons such as 'Previous', 'Add New', 'Next', 'Save', 'Delete', and 'Close'. 
+
+* First of all, we should press 'Add New' to enter new data in the GroupBox2 wherever you want to put data.
+
+![02_GroupBox_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/ImageFiles/02_GroupBox_DB.png)
+
+* Secondly, when you first press 'Add New', put manually each data in GroupBox1 or you can directly put each data in GroupBox3.
+
+![01_GroupBox_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/ImageFiles/01_GroupBox_DB.png)
+
+* Lastly, press 'Save' button when you finsh putting data in GroupBox3. 
+
+![03_GroupBox_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/ImageFiles/03_GroupBox_DB.png)
+
+
 ### 2-01 Student DB
 
 ![06_student.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/06_student.png)
