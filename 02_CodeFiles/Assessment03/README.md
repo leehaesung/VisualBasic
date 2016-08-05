@@ -1,10 +1,14 @@
 # Assessment III
 
+***
+
 * STUDENT NAME:	Haesung Lee
 * STUDENT NO:	  S078887
 * SUBJECT NO:	  M05
 * This version was coded by Microsoft Visual Basic 2010 Express with MS Office Access 2007.
 
+
+***
 
 ## Task-0: Data Table For DB 
 ## Designing The Data Tables For Training Database System:
@@ -33,6 +37,8 @@
 ![04_tbl_Room_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/04_tbl_Room_DB.png)
 
 
+
+***
 
 ## Task-1: Build GUI Design applications 
 ## Designing Constraint:
@@ -66,6 +72,9 @@ Public Class menu1
 End Class
 ````````````````````````````````````````
 
+
+
+***
 
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
@@ -274,11 +283,16 @@ End Class
 
 
 
+***
+
 ## Task 3 Debugging of GUI: 
 ### Debugging
 ![10_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/10_Debug.png)
 
 
+
+
+***
 
 ## Task 4 Test GUI Application:
 ### 4-1 Testing the Menu
@@ -351,6 +365,9 @@ Test case id	Test case Description                   Expected result            
 -----------------------------------------------------------------------------------------------------------------------
 ````````````````````````````````````````
 
+
+
+***
 
 ## Conclusion
 
