@@ -31,4 +31,12 @@
 ![06_student.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/06_student.png)
 
 
+![07_department.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/07_department.png)
 
+![8_Course_information.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/08_Course_information.png)
+
+![09_room.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/09_room.png)
+
+
+
+< END >
