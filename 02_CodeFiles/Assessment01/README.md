@@ -1,13 +1,17 @@
 # Assessment I
 
+***
+
 * STUDENT NAME:	Haesung Lee
 * STUDENT NO:	  S078887
 * SUBJECT NO:	  M05
 * This version was coded by Microsoft Visual Basic 2010 Express.
 
+
+***
+
 ## Task-1: Build GUI Design applications 
 ## Designing Constraint:
-
 
 ![01_Login](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/01_Login.png)
 * Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/lgoin.vb#L8`
@@ -55,6 +59,8 @@ End Class
 * When you press the buttons(Facebook/Google+), it's automatically going to pop up below that. 
 ![02_02_FacebookAndGooglePlus](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/02_FacebookAndGooglePlus.png)
 
+
+***
 
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
@@ -215,6 +221,8 @@ End Clas
 ![09_temperature_conversion_operation.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/09_temperature_conversion_operation.png)
 
 
+***
+
 ## Task 3 Debugging of GUI: 
 ### 3-1 Debugging the Login
 ![10_Debug_Login.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/10_Debug_Login.png)
@@ -231,6 +239,8 @@ End Clas
 ### 3-5 Debugging the Temperature Coversion
 ![14_Debug_temperature.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/OutputImageFiles/14_Debug_temperature.png)
 
+
+***
 
 ## Task 4 Test GUI Application:
 ### 4-1 Testing the Login
