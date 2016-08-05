@@ -126,7 +126,7 @@ End Clas
 
 
 ## Task 3 Debugging of GUI: 
-### 3-1 Debugging the Login
+### Debugging 
 
 ![07_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/07_Debug.png)
 
