@@ -86,6 +86,11 @@ Public Class Form1
 End Clas
 ````````````````````````````````````````
 
+
+## Task 2: Create GUI  Application
+## Operational Constraint:
+
+
 * If the user clicks on the “Fill Student marks” button, It should prompt you via an input box to enter marks of 10 students sequentially as below:
 
 ![02_Fill_Student_marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/02_Fill_Student_marks.png)
@@ -109,6 +114,9 @@ End Clas
 * If the user clicks on the “Clear Student marks” button, the text box contents should be cleared or empty as below:
 
 ![06_Clear_Student_Marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/06_Clear_Student_Marks.png)
+
+
+* If the user clicks on the “ 'x'(Exit)” Button the programme should terminate.
 
 
 
