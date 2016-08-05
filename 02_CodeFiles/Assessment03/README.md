@@ -39,7 +39,7 @@
 * The design of the Main Form will look as below. In the application, you are required to put the main Menu items for Training Information System Form (Student, Department, Course, Room.)
 
 ![05_menu.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/05_menu.png)
-* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment01/lgoin.vb#L8`
+* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/menu1.vb`
 
 ````````````````````````````````````````
 Public Class menu1
@@ -118,9 +118,9 @@ End Class
 
 ### 2-02 Department DB
 
-![06_student.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/06_student.png)
+![07_department.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/07_department.png)
 
-* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/07_department.png`
+* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/department.vb`
 
 ````````````````````````````````````````
 Public Class department
@@ -163,7 +163,7 @@ End Class
 ````````````````````````````````````````
 
 
-### 2-03 Department DB
+### 2-03 Course Information DB
 
 ![08_Course_information.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/08_Course_information.png)
 
@@ -210,7 +210,51 @@ End Class
 ````````````````````````````````````````
 
 
+### 2-04 Room DB
 
+![09_room.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/09_room.png)
+
+* Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/room.vb`
+
+````````````````````````````````````````
+Public Class room
+
+    Private Sub room_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        'TODO: This line of code loads data into the 'TrainingDataSet.tbl_Room' table. You can move, or remove it, as needed.
+        Me.Tbl_RoomTableAdapter.Fill(Me.TrainingDataSet.tbl_Room)
+
+    End Sub
+
+    Private Sub btn_previous_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_previous.Click
+        TblRoomBindingSource.MovePrevious()
+    End Sub
+
+    Private Sub btn_addNew_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_addNew.Click
+        TblRoomBindingSource.AddNew()
+    End Sub
+
+    Private Sub btn_next_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_next.Click
+        TblRoomBindingSource.MoveNext()
+    End Sub
+
+    Private Sub btn_save_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_save.Click
+        On Error GoTo SaveErr
+        TblRoomBindingSource.EndEdit()
+        Tbl_RoomTableAdapter.Update(TrainingDataSet.tbl_Room)
+        MessageBox.Show("Ok Boss")
+SaveErr:
+        Exit Sub
+    End Sub
+
+    Private Sub btn_delete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_delete.Click
+        TblRoomBindingSource.RemoveCurrent()
+    End Sub
+
+    Private Sub btn_close_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_close.Click
+        Me.Close()
+    End Sub
+End Class
+````````````````````````````````````````
 
 
 
