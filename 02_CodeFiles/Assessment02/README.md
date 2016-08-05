@@ -86,3 +86,6 @@ Public Class Form1
 End Clas
 ````````````````````````````````````````
 
+* If the user clicks on the “Fill Student marks” button, It should prompt you via an input box to enter marks of 10 students sequentially as below:
+
+![02_Fill_Student_marks.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/02_Fill_Student_marks.png)
