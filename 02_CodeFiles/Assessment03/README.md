@@ -69,4 +69,11 @@ End Class
 ## Task 2: Create GUI  Application
 ## Operational Constraint:
 
-### 2-01 
+### 2-01 Student DB
+
+![06_student.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment03/OutputImageFiles/06_student.png)
+
+
+
+
+
