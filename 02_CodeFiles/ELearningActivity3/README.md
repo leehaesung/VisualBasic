@@ -115,10 +115,27 @@ End Class
 ***
 
 ## Task 3 Debugging of GUI: 
-### 3-1 Debugging the Login
+### Debugging the Login
 
+![07_Debug.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/Assessment02/OutputImageFiles/07_Debug.png)
 
 ***
 
 ## Task 4 Test GUI Application:
-### 4-1 Testing the Login
+### Testing all process
+````````````````````````````````````````
+[Test Plan Template]
+-----------------------------------------------------------------------------------------------------------------------
+Test case id	Test case Description                   Expected result                        Actual result
+-----------------------------------------------------------------------------------------------------------------------
+ 001             Putting the data    			         Would be good                          OK
+ 002	         Displaying the data 	                 Would be OK	                        OK       
+ 003			 Sorting the data                        Would be good                          Very Good
+ 004             Reversing the data                      Woudl be ok                            very Good
+ 005             Cleaning the data                       Would be good                          Very Good
+ 006             Terminating the program                 Would be ok                            Well done!!
+-----------------------------------------------------------------------------------------------------------------------
+````````````````````````````````````````
+
+
+< END >
