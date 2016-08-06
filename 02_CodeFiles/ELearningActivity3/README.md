@@ -106,6 +106,12 @@ End Class
 ![02_Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/02_Array_PG_DB.png)
 
 
+### Reversing the data
+* If the user clicks on the “Reverse Student Marks” button, the students’ marks in the Textbox should be displayed in the reverse way and at evaluation time the user can see the progress bar as below:
+
+![03_Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/03_Array_PG_DB.png)
+
+
 ***
 
 ## Task 3 Debugging of GUI: 
