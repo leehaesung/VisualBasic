@@ -107,11 +107,50 @@ End Class
 
 ![02_Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/02_Array_PG_DB.png)
 
+````````````````````````````````````````
+ Private Sub btn_sort_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_sort.Click
+        Dim Result As String
+        Dim i As Short
+        Dim Total As Single = 0
+        Array.Sort(Stu_mark)
+        Result = "The ten student marks, whch is been Entered in Array's are as follows:" & vbCrLf & vbCrLf
+        For i = 0 To UBound(Stu_mark)
+            Result = Result & "Student  " & (i + 1) & "  " & Stu_mark(i) & vbCrLf
+            Total = Total + Stu_mark(i)
+            ProgressBar1.Value = i
+        Next
+        Result = Result & vbCrLf & _
+        "Average Marks: " & Format(Total / 10, "0.0")
+        txt_marks.Text = Result
+
+    End Sub
+````````````````````````````````````````
+
+
 
 ### Reversing the data
 * If the user clicks on the “Reverse Student Marks” button, the students’ marks in the Textbox should be displayed in the reverse way and at evaluation time the user can see the progress bar as below:
 
 ![03_Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/03_Array_PG_DB.png)
+
+````````````````````````````````````````
+Private Sub btn_reverse_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_reverse.Click
+        Dim Result As String
+        Dim i As Short
+        Dim Total As Single = 0
+        Array.Reverse(Stu_mark)
+        Result = "The ten student marks, whch is been Entered in Array's are as follows:" & vbCrLf & vbCrLf
+        For i = 0 To UBound(Stu_mark)
+            Result = Result & "Student  " & (i + 1) & "  " & Stu_mark(i) & vbCrLf
+            Total = Total + Stu_mark(i)
+            ProgressBar1.Value = i
+        Next
+        Result = Result & vbCrLf & _
+        "Average Marks: " & Format(Total / 10, "0.0")
+        txt_marks.Text = Result
+    End Sub
+````````````````````````````````````````
+
 
 
 ***
