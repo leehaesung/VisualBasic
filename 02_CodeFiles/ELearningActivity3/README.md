@@ -13,6 +13,8 @@
 ## Task-1: Build GUI Design applications 
 ## Designing Constraint:
 
+* Thsis is simple DB principle for Displaying, Sorting, Reversing, and Deleting the data. This project is quite simlar to Assessment 02. 
+
 ![Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/Array_PG_DB.png)
 * Source Code: `https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/Form1.vb`
 
