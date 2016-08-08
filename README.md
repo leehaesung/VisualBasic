@@ -13,8 +13,15 @@
 ***
 
 ## [ELearning Activity 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity2)
-
-
+![/plus_calculator.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/calculator/plus_calculator.png)
+![minus_calculator.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/calculator/minus_calculator.png)
+![divide_calculator.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/calculator/divide_calculator.png)
+![divide_calculator.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/calculator/divide_calculator.png)
+***
+![01_week02_compare.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/week02_01/01_week02_compare.png)
+![02_week02_compare.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/week02_01/02_week02_compare.png)
+***
+![switch_week2_02.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/week02_02/switch_week2_02.png)
 ***
 
 ## [ELearning Activity 03](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity3)
