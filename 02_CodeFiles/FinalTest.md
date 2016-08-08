@@ -4,7 +4,15 @@
 
 ### 1. What are different types of Events available in Visual basic programming language? Write any 5 names of events.
 ````````````````````````````````````````````````````````````
+We can group events into different categories. Perhaps the most obvious group of events is the mouse group.
+The Click and DoubleClick mouse events are obvious.
+- Click : Called in response to a single click
+- DoubleClick : Called in response to a double click
 
+The Mouse - Down/Up/Move events are called every time the user presses or releases any button or just moves the mouse.
+- MouseDown : Called when any mouse button is pressed down
+- MouseUp : Called when any mouse button is released
+- MouseMove :Called every time the mouse moves
 ````````````````````````````````````````````````````````````
 
 ### 2. Define Timer Control. What are the two main properties of the Timer Control. What values should those properties be assigned?
