@@ -2,6 +2,31 @@
 
 ***
 
+## [ELearning Activity 01](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity1)
+![week01_01.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_01/week01_01.png)
+***
+![week01_02.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_02/week01_02.png)
+***
+![01_week01_03.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_03/01_week01_03.png)
+![02_week01_03.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_03/02_week01_03.png)
+![03_week01_03.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_03/03_week01_03.png)
+***
+
+## [ELearning Activity 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity2)
+
+
+***
+
+## [ELearning Activity 03](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity3)
+
+
+***
+
+## [ELearning Activity 04](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity4)
+
+
+***
+
 ## [Assessment 01](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/Assessment01)
 
 
