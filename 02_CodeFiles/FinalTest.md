@@ -3,29 +3,46 @@
 ***
 
 ### 1. What are different types of Events available in Visual basic programming language? Write any 5 names of events.
+````````````````````````````````````````````````````````````
 
-
+````````````````````````````````````````````````````````````
 
 ### 2. Define Timer Control. What are the two main properties of the Timer Control. What values should those properties be assigned?
+````````````````````````````````````````````````````````````
 
+````````````````````````````````````````````````````````````
 
 
 ### 3. What is the difference between Input box and Msgbox commands?
+````````````````````````````````````````````````````````````
 
+````````````````````````````````````````````````````````````
 
 
 ### 4. What are the three types of errors that can occur in a Visual Basic program? Define each in detail with examples.
+````````````````````````````````````````````````````````````
+In Visual Basic, tere are three categories: syntax errors, run-time errors, and logic errors.
+- Syntax errors are those that appear while you write code. Visual Basic checks your code as you type it in the Code Editor window and alerts you if you make a mistake, such as misspelling a word or using a language element improperly. Syntax errors are the most common type of errors. You can fix them easily in the coding environment as soon as they occur.
 
+- Run-time errors are those that appear only after you compile and run your code. These involve code that may appear to be correct in that it has no syntax errors, but that will not execute. For example, you might correctly write a line of code to open a file. But if the file is corrupted, the application cannot carry out the Open function, and it stops running. You can fix most run-time errors by rewriting the faulty code, and then recompiling and rerunning it.
+
+- Logic errors are those that appear once the application is in use. They are most often unwanted or unexpected results in response to user actions. For example, a mistyped key or other outside influence might cause your application to stop working within expected parameters, or altogether. Logic errors are generally the hardest type to fix, since it is not always clear where they originate.
+
+````````````````````````````````````````````````````````````
 
 
 ### 5. What do you understand by static array declaration and dynamic array declaration. Which command is used to resize the fixed array dimension? Give an example.
+````````````````````````````````````````````````````````````
 
+````````````````````````````````````````````````````````````
 
 
 
 ### 6. How are arrays declared in Visual Basic?
 Type the code to declare a two dimensional array with 5 rows and 9 columns in memory
+````````````````````````````````````````````````````````````
 
+````````````````````````````````````````````````````````````
 
 
 
@@ -64,13 +81,13 @@ categories of variables
 
 Select one or more:
 ``````````````````````````
-a. String
-b. Date
-c. Boolean
-d. Structure
-e. Numeric
-f. Class
-g. Object
+() a. String
+() b. Date
+() c. Boolean
+() d. Structure
+() e. Numeric
+() f. Class
+() g. Object
 ``````````````````````````
 
 
@@ -79,10 +96,10 @@ g. Object
 Choose from the following
 ````````````````````````````````````````````````````
 Select one or more:
-a. Dim Qty As Integer, Amount As Decimal, CardNum As String
-b. Dim Length, Width, Height As Integer, Volume, Area As Double
-c. None of The above
-d. Dim meters As Integer
+() a. Dim Qty As Integer, Amount As Decimal, CardNum As String
+() b. Dim Length, Width, Height As Integer, Volume, Area As Double
+() c. None of The above
+() d. Dim meters As Integer
    Dim greetings As String
 ````````````````````````````````````````````````````
 
