@@ -11,6 +11,8 @@
 ![02_week01_03.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_03/02_week01_03.png)
 ![03_week01_03.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_03/03_week01_03.png)
 ***
+![week01_04.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity1/week01_04/week01_04.png)
+***
 
 ## [ELearning Activity 02](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity2)
 ![/plus_calculator.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity2/calculator/plus_calculator.png)
@@ -25,12 +27,12 @@
 ***
 
 ## [ELearning Activity 03](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity3)
-
+![Array_PG_DB.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity3/Array_PG_DB.png)
 
 ***
 
 ## [ELearning Activity 04](https://github.com/leehaesung/VisualBasic/tree/master/02_CodeFiles/ELearningActivity4)
-
+![output_graphics.png](https://github.com/leehaesung/VisualBasic/blob/master/02_CodeFiles/ELearningActivity4/OutputImageFiles/output_graphics.png)
 
 ***
 
