@@ -17,13 +17,24 @@ The Mouse - Down/Up/Move events are called every time the user presses or releas
 
 ### 2. Define Timer Control. What are the two main properties of the Timer Control. What values should those properties be assigned?
 ````````````````````````````````````````````````````````````
+- Definition: The Timer control allows you to set a time interval to execute an event after that interval continuously. It is useful when you want to execute certain applications after a certain interval. Say you want to create a backup of your data processing in every hour. You can make a routine which will take the backup and call that routine on Timer's event and set timer interval for an hour.
 
+- Two main properties  
+  1. Interval Property
+  2. Enabled Property 
+  
+- Assigned values of Interval & Enabled property
+For example, if we want to set an interval of two minute we set the value at Interval property as 120000, means 120x1000 .
+
+The Timer Control starts its functioning only after its Enabled property is set to True, by default Enabled property is False.
 ````````````````````````````````````````````````````````````
 
 
 ### 3. What is the difference between Input box and Msgbox commands?
 ````````````````````````````````````````````````````````````
-
+Message box shows the infomation/warning to the user but 
+input box required user to enter the input to proceed 
+further.
 ````````````````````````````````````````````````````````````
 
 
