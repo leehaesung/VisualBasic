@@ -52,6 +52,16 @@ In Visual Basic, tere are three categories: syntax errors, run-time errors, and 
 
 ### 5. What do you understand by static array declaration and dynamic array declaration. Which command is used to resize the fixed array dimension? Give an example.
 ````````````````````````````````````````````````````````````
+A static(fixed) array is one that will not change it's size/allocation, while a dynamic array can be reallocated to grow or shrink.
+
+For example,
+As for VB, we can create a static(fixed) array like this:
+
+   Dim arrayname(10) As Integer    ' static array declaration
+
+To declare a dynamic Array,      
+
+   Dim arrayname() As Integer      ' dynamic array declaration
 
 ````````````````````````````````````````````````````````````
 
