@@ -70,6 +70,25 @@ To declare a dynamic Array,
 ### 6. How are arrays declared in Visual Basic?
 Type the code to declare a two dimensional array with 5 rows and 9 columns in memory
 ````````````````````````````````````````````````````````````
+We can declare a 2-dimensional array of strings as:
+
+   Dim twoDStringArray(10, 20) As String
+
+   
+Module arrayApl
+   Sub Main()
+      ' an array with 5 rows and 2 columns
+      Dim a(,) As Integer = {{0, 1, ....}, {1, 2}, {2, 4}, {3, 6}, {4, 8}}
+      Dim i, j As Integer
+      ' output each array element's value '
+      For i = 0 To 4
+          For j = 0 To 8
+              Console.WriteLine("a[{0},{1}] = {2}", i, j, a(i, j))
+          Next j
+      Next i
+      Console.ReadKey()
+   End Sub
+End Module
 
 ````````````````````````````````````````````````````````````
 
