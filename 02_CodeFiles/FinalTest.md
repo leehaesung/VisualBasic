@@ -146,10 +146,7 @@ H. This function extracts the second portion of the specified Date/time value (0
 
 
 
-### 9. Visual Basic recognizes the following four
-categories of variables
-
-Select one or more:
+### 9. Visual Basic recognizes the following four categories of variables. Select one or more:
 ``````````````````````````
 (V) a. String
 ( ) b. Date
@@ -161,9 +158,7 @@ Select one or more:
 ``````````````````````````
 
 
-### 10. The correct way to declare a variable in Visual basic is
-
-Choose from the following
+### 10. The correct way to declare a variable in Visual basic. Choose from the following
 ````````````````````````````````````````````````````
 Select one or more:
 (V) a. Dim Qty As Integer, Amount As Decimal, CardNum As String
@@ -175,8 +170,7 @@ Select one or more:
 
 
 
-### 11. To execute a block of statements while a condition is True, use the following
-syntax:
+### 11. To execute a block of statements while a condition is True, use the following syntax:
  
 `````````````````````````````````````````````````
   Do Until condition
@@ -186,15 +180,14 @@ syntax:
            Loop
 `````````````````````````````````````````````````
        
-Select one:
 ```````````````````
+Select one:
 ( )True
 (V)False
 ```````````````````
 
 
-### 12. To execute a block of statements until the condition becomes True, use the
-following syntax:
+### 12. To execute a block of statements until the condition becomes True, use the following syntax:
 
 `````````````````````````````````````````````````
 Do while condition
@@ -206,11 +199,12 @@ Do while condition
 
 `````````````````````````````````````````````````      
 
-Select one:
 ``````````````````
+Select one:
 (V)True
 ( )False 
 ``````````````````
+
 
 < END >
 
