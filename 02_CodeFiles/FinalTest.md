@@ -126,7 +126,7 @@ Public Class frm_swithcase           ' Declaration of the class
 ```````````````````````````````````````````````````````````````````````````
 ---------------------------------------------------------------------------------
 A. This property sets or returns the current time from the system clock
-B. This property returns an encoded value representing tyhe current Date and time, This property is mos useful as an argument for other
+B. This property returns an encoded value representing tyhe current Date and time, This property is most useful as an argument for other
 C. This property sets or returns the current date from the system Clock.
 D. This function extracts the hour portion of the specified date.
 E. This function extracts the year portion of the specifeid date.
@@ -134,14 +134,14 @@ F. This function extracts a whole number representing the Month (1 throught 12).
 G. This function extracts the minute portion of the specified.
 H. This function extracts the second portion of the specified Date/time value (0 through 59).
 ---------------------------------------------------------------------------------
-(1) Minute (date)  : 
-(2) Hour (date)    : 
-(3) Month (date)   :
-(4) Second (date)  :
-(5) Now            :
-(6) Time String    :
-(7) Year (date)    :
-(8) Datesting      :
+ (1) Minute (date)  : G
+ (2) Hour (date)    : D
+ (3) Month (date)   : F
+ (4) Second (date)  : H
+ (5) Now            : C
+ (6) Time String    : A
+ (7) Year (date)    : E
+ (8) Date string    : B
 ```````````````````````````````````````````````````````````````````````````
 
 
