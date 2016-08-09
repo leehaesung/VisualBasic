@@ -122,8 +122,7 @@ Public Class frm_swithcase           ' Declaration of the class
  End Class                            ' The class finished
 ````````````````````````````````````````````````````````````
 
-### 8. Match the Following System Clock properties and
-function?
+### 8. Match the Following System Clock properties and function
 
 
 
