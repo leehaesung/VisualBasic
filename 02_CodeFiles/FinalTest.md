@@ -72,21 +72,18 @@ Type the code to declare a two dimensional array with 5 rows and 9 columns in me
 ````````````````````````````````````````````````````````````
 We can declare a 2-dimensional array of strings as:
 
-   Dim twoDStringArray(10, 20) As String
+   Dim twoDStringArray(10, 20) As String    ' 2 dimennsional array
 
-   
 Module arrayApl
    Sub Main()
-      ' an array with 5 rows and 2 columns
-      Dim a(,) As Integer = {{0, 1, ....}, {1, 2}, {2, 4}, {3, 6}, {4, 8}}
-      Dim i, j As Integer
-      ' output each array element's value '
-      For i = 0 To 4
-          For j = 0 To 8
-              Console.WriteLine("a[{0},{1}] = {2}", i, j, a(i, j))
-          Next j
+    .....
+    .....
+      For i = 0 To 4               ' 5 rows
+          For j = 0 To 8           ' 9 columns
+    .....
+    .....
       Next i
-      Console.ReadKey()
+    .....
    End Sub
 End Module
 
@@ -96,26 +93,33 @@ End Module
 
 ### 7. Define each line of code
 ````````````````````````````````````````````````````````````
-Public Class frm_swithcase
-    Dim age As Integer
+Public Class frm_swithcase           ' Declaration of the class
+    Dim age As Integer               ' Variable of age as Integer
     
     Private Sub btn_test_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_test.Click
-
-        age = txt_age.Text
-        Select Case age
-            Case Is < 13
+       ' Button's function as system object
+       
+        age = txt_age.Text           ' Input of age as text      
+        
+        Select Case age              ' Switch as Select Case
+            Case Is < 13             ' If Is is smaller than 13, It will display "Enjoy your teens". 
                 txt_output.Text = "Enjoy your Youth"
-            Case 13 To 19
+                
+            Case 13 To 19            ' If it includes from 13 to 19, It will display "Enjoy your teens".
                 txt_output.Text = "Enjoy your teens"
-            Case 20 To 45
+                
+            Case 20 To 45       ' If it includes between 20 and 45, this will present "you can enjoy wine with your meal"
                 txt_output.Text = "you can enjoy wine with your meal"
-            Case Is < 100
+                
+            Case Is < 100             ' If Is is smaller than  100, this will display "you dont need my suggestion"
                 txt_output.Text = "you dont need my suggestion"
-            Case Else
+                
+            Case Else                 ' Another case, this will disply "Thant's a nice age to be"
                 txt_output.Text = "That's a nice age to be"
-        End Select
-    End Sub
- End Class
+                
+        End Select                    ' The Select case finished
+    End Sub                           ' The function object finished
+ End Class                            ' The class finished
 ````````````````````````````````````````````````````````````
 
 ### 8. Match the Following System Clock properties and
