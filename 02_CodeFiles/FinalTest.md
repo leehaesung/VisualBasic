@@ -123,7 +123,26 @@ Public Class frm_swithcase           ' Declaration of the class
 ````````````````````````````````````````````````````````````
 
 ### 8. Match the Following System Clock properties and function
-
+```````````````````````````````````````````````````````````````````````````
+---------------------------------------------------------------------------------
+A. This property sets or returns the current time from the system clock
+B. This property returns an encoded value representing tyhe current Date and time, This property is mos useful as an argument for other
+C. This property sets or returns the current date from the system Clock.
+D. This function extracts the hour portion of the specified date.
+E. This function extracts the year portion of the specifeid date.
+F. This function extracts a whole number representing the Month (1 throught 12).
+G. This function extracts the minute portion of the specified.
+H. This function extracts the second portion of the specified Date/time value (0 through 59).
+---------------------------------------------------------------------------------
+(1) Minute (date)  : 
+(2) Hour (date)    : 
+(3) Month (date)   :
+(4) Second (date)  :
+(5) Now            :
+(6) Time String    :
+(7) Year (date)    :
+(8) Datesting      :
+```````````````````````````````````````````````````````````````````````````
 
 
 
@@ -132,13 +151,13 @@ categories of variables
 
 Select one or more:
 ``````````````````````````
-() a. String
-() b. Date
-() c. Boolean
-() d. Structure
-() e. Numeric
-() f. Class
-() g. Object
+(V) a. String
+( ) b. Date
+( ) c. Boolean
+( ) d. Structure
+(V) e. Numeric
+( ) f. Class
+( ) g. Object
 ``````````````````````````
 
 
@@ -147,10 +166,10 @@ Select one or more:
 Choose from the following
 ````````````````````````````````````````````````````
 Select one or more:
-() a. Dim Qty As Integer, Amount As Decimal, CardNum As String
-() b. Dim Length, Width, Height As Integer, Volume, Area As Double
-() c. None of The above
-() d. Dim meters As Integer
+(V) a. Dim Qty As Integer, Amount As Decimal, CardNum As String
+(V) b. Dim Length, Width, Height As Integer, Volume, Area As Double
+( ) c. None of The above
+(V) d. Dim meters As Integer
    Dim greetings As String
 ````````````````````````````````````````````````````
 
@@ -169,8 +188,8 @@ syntax:
        
 Select one:
 ```````````````````
-()True
-()False
+( )True
+(V)False
 ```````````````````
 
 
@@ -189,8 +208,8 @@ Do while condition
 
 Select one:
 ``````````````````
-()True
-()False 
+(V)True
+( )False 
 ``````````````````
 
 < END >
