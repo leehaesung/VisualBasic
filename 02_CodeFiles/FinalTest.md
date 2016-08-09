@@ -150,10 +150,10 @@ H. This function extracts the second portion of the specified Date/time value (0
 ``````````````````````````
 (V) a. String
 ( ) b. Date
-( ) c. Boolean
+(V) c. Boolean
 ( ) d. Structure
-( ) e. Numeric
-( ) f. Class
+(V) e. Numeric
+(V) f. Class
 ( ) g. Object
 ``````````````````````````
 
