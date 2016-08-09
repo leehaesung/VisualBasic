@@ -126,7 +126,7 @@ Public Class frm_swithcase           ' Declaration of the class
 ```````````````````````````````````````````````````````````````````````````
 ---------------------------------------------------------------------------------
 A. This property sets or returns the current time from the system clock
-B. This property returns an encoded value representing tyhe current Date and time, This property is most useful as an argument for other
+B. This property returns an encoded value representing the current Date and time, This property is most useful as an argument for other
 C. This property sets or returns the current date from the system Clock.
 D. This function extracts the hour portion of the specified date.
 E. This function extracts the year portion of the specifeid date.
@@ -138,10 +138,10 @@ H. This function extracts the second portion of the specified Date/time value (0
  (2) Hour (date)    : D
  (3) Month (date)   : F
  (4) Second (date)  : H
- (5) Now            : C
+ (5) Now            : B
  (6) Time String    : A
  (7) Year (date)    : E
- (8) Date string    : B
+ (8) Date string    : C
 ```````````````````````````````````````````````````````````````````````````
 
 
@@ -152,7 +152,7 @@ H. This function extracts the second portion of the specified Date/time value (0
 ( ) b. Date
 ( ) c. Boolean
 ( ) d. Structure
-(V) e. Numeric
+( ) e. Numeric
 ( ) f. Class
 ( ) g. Object
 ``````````````````````````
@@ -201,8 +201,8 @@ Do while condition
 
 ``````````````````
 Select one:
-(V)True
-( )False 
+( )True
+(V)False 
 ``````````````````
 
 
